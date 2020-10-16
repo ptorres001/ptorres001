@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**ptorres001/ptorres001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paul Torres. Thanks for coming by!
 
-Here are some ideas to get you started:
+I used to work in Physics with a focus on the atmosphere but I turned to focus full time on Data Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on a deep learning project classifying images.
+
+But you can also ask me about any of my finished projects.
+
+
+You can also find me at:  
+* LinkedIn: [Here](https://www.linkedin.com/in/pntorres/)
+* Medium Blog: [Here](https://medium.com/@ptorres001)
+* Twitter: [Here](https://twitter.com/PaulnTorres)
