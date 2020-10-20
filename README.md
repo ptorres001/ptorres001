@@ -10,6 +10,6 @@ But you can also ask me about any of my finished projects.
 
 
 You can also find me at:  
-* LinkedIn: [Here](https://www.linkedin.com/in/pntorres/)
-* Medium Blog: [Here](https://medium.com/@ptorres001)
-* Twitter: [Here](https://twitter.com/PaulnTorres)
+* [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/pntorres/)
+* [![Medium](PNG/Monogram.png)](https://medium.com/@ptorres001)
+* [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/PaulnTorres)
