@@ -8,6 +8,6 @@ I am currently working on a deep learning project classifying images. But you ca
 
 
 You can also find me at:  
-* LinkedIn [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/pntorres/)
-* Medium [![Medium](PNG/Monogram.png)](https://medium.com/@ptorres001)
-* Twitter [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/PaulnTorres)
+* [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/pntorres/) LinkedIn
+* [![Medium](PNG/Monogram.png)](https://medium.com/@ptorres001) Medium
+* [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/PaulnTorres) Twitter
