@@ -13,4 +13,7 @@ You can also find me at:
 * [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/PaulnTorres) Twitter
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptorres001&layout=compact)](https://github.com/ptorres001/github-readme-stats)
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptorres001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
