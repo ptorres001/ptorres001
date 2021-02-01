@@ -11,3 +11,6 @@ You can also find me at:
 * [![LinkedIn](PNG/LI-In-Bug.png)](https://www.linkedin.com/in/pntorres/) LinkedIn
 * [![Medium](PNG/Monogram.png)](https://medium.com/@ptorres001) Medium
 * [![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/PaulnTorres) Twitter
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptorres001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
