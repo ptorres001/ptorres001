@@ -1,10 +1,13 @@
-### Thanks for stopping by! 👋
+### Thanks for stopping by! 
 
-My name is Paul Torres. Thanks for coming by!
+My name is Paul Torres.
 
 I used to work in Physics with a focus on the atmosphere but I turned to focus full time on Data Science. I am interested in telling stories using data. I spend my time learning new topics about machine learning and writing articles on Medium about the techniques that I learn. 
 
-I am currently working on a deep learning project classifying images. But you can also ask me about any of my finished projects.
+Projects I am currently working on:
+* Tanzanian Water Pump Hackathon
+* Automated text extractor for transfering information from detailed report to tabular sheet
+* Topic Modeling and Basic Analysis of Harry Potter Series
 
 
 You can also find me at:  
