@@ -4,6 +4,8 @@ My name is Paul Torres.
 
 I used to work in Physics with a focus on the atmosphere but I turned to focus full time on Data Science. I am interested in telling stories using data. I spend my time learning new topics about machine learning and writing articles on Medium about the techniques that I learn. 
 
+I've written articles on everything from past projects, to algorithm review for further learning, to deep learning concepts like pseudo-supervised learning. Research and education are my best tools to mastering new techniques.
+
 Projects I am currently working on:
 * Tanzanian Water Pump Hackathon
 * Automated text extractor for transfering information from detailed report to tabular sheet
